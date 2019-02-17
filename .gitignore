@@ -3,4 +3,5 @@
 .ssh/
 logs/log*
 tests/
+dataset/
 
